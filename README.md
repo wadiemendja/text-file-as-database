@@ -1,2 +1,2 @@
-# Text file a database
+# Text file as a database
 JAVA Program using textfile as a database
